@@ -1,0 +1,583 @@
+#EXTM3U
+#EXTINF:0 type="stream" tvg-chno="1" logo="https://1.bp.blogspot.com/-LlFoNXX9W40/XnBVdbRy-fI/AAAAAAABiio/57SITbZbLXEm9PT-Ff6yAS_hZccyCFACACLcBGAsYHQ/s1600/nowlogo.png", NOW
+https://www.google.com.br/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwiWhKj37uXmAhUeE7kGHZIEDjQQjRx6BAgBEAQ&url=https%3A%2F%2Fgfycat.com%2Fpaltryhopefulamericanindianhorse&psig=AOvVaw1GKP63XZo1_HzhiDAZ1Sxk&ust=1578087160122404
+#EXTINF:0 type="stream" tvg-chno="2" logo="https://1.bp.blogspot.com/-1XKBpm74y5o/XnBVi6fTMWI/AAAAAAABijk/rbMJigJ5b3AAwRsFfKKpmuD35dBASrOIgCLcBGAsYHQ/s1600/recordtvlogo.png" tvg-country="br" group-title="Abertos", RecordTV
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13175.m3u8
+#EXTINF:0 type="stream" tvg-chno="19" logo="https://1.bp.blogspot.com/-MHpqQmPnuy4/XnBVySJUreI/AAAAAAABimM/3kmzuhLTRNw0JxXr38yxbalA6adIwiyRQCLcBGAsYHQ/s1600/tvbrasillogo.png" tvg-country="BR" group-title="Abertos", TV Brasil 2
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13196.m3u8
+#EXTINF:0 type="stream" tvg-chno="4!" logo="https://1.bp.blogspot.com/-apVuh3143FM/XnBVjv6632I/AAAAAAABijs/4AM__crhEWsXIN5BpPhadliHPAQU1NgjACLcBGAsYHQ/s1600/redetvlogo.png" tvg-country="br" group-title="Abertos", RedeTV!
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13188.m3u8
+#EXTINF:0 type="stream" tvg-chno="5" logo="https://1.bp.blogspot.com/-BQyuHeDy3Jo/XnBVliQf8dI/AAAAAAABij8/hQst5f-a4mYgxO3sxDM8IHn5X489FMTqgCLcBGAsYHQ/s1600/sbtlogo.png" tvg-country="br" group-title="Abertos", SBT
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13180.m3u8
+#EXTINF:0 type="stream" tvg-chno="6" logo="https://1.bp.blogspot.com/-QZeRGEOnIzs/XnBVMHLeDOI/AAAAAAABifk/UaL46_g-a7UIwVM3op7plu4fDr_4rYTIgCLcBGAsYHQ/s1600/gazetalogo.png" tvg-country="BR" group-title="Abertos", Gazeta
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13200.m3u8
+#EXTINF:0 type="stream" tvg-chno="7" logo="https://1.bp.blogspot.com/-XgqAgZ02Ujo/XnBV0irmOGI/AAAAAAABimc/XUvEBi_eHykEzJjEr3voB6Kje-djSf-iQCLcBGAsYHQ/s1600/tvepoalogo.png" group-title="Abertos", TVE RS
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="8" logo="https://1.bp.blogspot.com/-mLznpJPCCDQ/XnBV1w8rxqI/AAAAAAABimk/fJ63DTvwlvoBQ53ocqYsCt4vqZBL-hbGACLcBGAsYHQ/s1600/tvjusti%25C3%25A7alogo.png" tvg-country="BR" group-title="Abertos", TV Justiça
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13202.m3u8
+#EXTINF:0 type="stream" tvg-chno="9" logo="https://1.bp.blogspot.com/-3Rja9Tbr5ig/XnBVzMXP5wI/AAAAAAABimU/8kMnQAmPlKgnHTDcteN8E9DkVDLHit8FQCLcBGAsYHQ/s1600/tvculturalogo.png" tvg-country="BR" group-title="Abertos", Cultura
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13191.m3u8
+#EXTINF:0 type="stream" tvg-chno="10" logo="https://1.bp.blogspot.com/-LWF62q13SRg/XnBUwXXcYqI/AAAAAAABibM/asB_1W0qfOsoArbaLklmeERvsqC77tZqACLcBGAsYHQ/s1600/bandlogo.png" tvg-country="BR" group-title="Abertos", Band  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13184.m3u8
+#EXTINF:0 type="stream" tvg-chno="", Item 150
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="12.1" logo="https://1.bp.blogspot.com/-XpcPbYvHumE/XnBVhnZ4bJI/AAAAAAABijc/ne_xNpGXj302t79VkHp2fid99zaE3psvQCLcBGAsYHQ/s1600/rbstvlogo.png" tvg-country="BR" group-title="Abertos", RBS TV Porto Alegre  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/3835.m3u8
+#EXTINF:0 type="stream" tvg-chno="13" logo="https://1.bp.blogspot.com/-bAjzHjZx0-w/XnBV0lCULII/AAAAAAABimg/rYgEuGFoVKgwScTgcqeOwW_GCYcD8uyZwCLcBGAsYHQ/s1600/tvescolalogo.png" tvg-country="BR" group-title="Abertos", TV Escola
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13195.m3u8
+#EXTINF:0 type="stream" tvg-chno="12.2" logo="https://1.bp.blogspot.com/-WgaFd5UkI64/XnBVNnYX_kI/AAAAAAABifw/mx2t5oHHJr0cf6_qBOHWLwH-Plku2CRtwCLcBGAsYHQ/s1600/globologo.png", Globo SP
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/1702.m3u8
+#EXTINF:0 type="stream" tvg-chno="12.3" logo="https://1.bp.blogspot.com/-WgaFd5UkI64/XnBVNnYX_kI/AAAAAAABifw/mx2t5oHHJr0cf6_qBOHWLwH-Plku2CRtwCLcBGAsYHQ/s1600/globologo.png", Globo RJ
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/1684.m3u8
+#EXTINF:0 type="stream" tvg-chno="16" logo="https://1.bp.blogspot.com/-vRSwSzsqZ6I/XnBUsSdRsPI/AAAAAAABiao/S381B4UF6L8OKmAPooY1jy48Msn-LM-1ACLcBGAsYHQ/s1600/alergstvlogo.png", Alergs TV
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="17" logo="https://1.bp.blogspot.com/-YfP0FQD1fzs/XnBV27ZanQI/AAAAAAABimw/FKAYsIPQ80sO-MaxlFI7n1ghRzLbzrp0wCLcBGAsYHQ/s1600/tvsenadologo.png" tvg-country="BR" group-title="Abertos", TV Senado
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13204.m3u8
+#EXTINF:0 type="stream" tvg-chno="18" logo="https://1.bp.blogspot.com/-WZcuGbRCkCc/XnBVy47QOuI/AAAAAAABimQ/4oCJjf8n6r4UxwuS0MNvHMtEJQDe2gE1QCLcBGAsYHQ/s1600/tvcamaralogo.png" tvg-country="BR" group-title="Abertos", TV Câmara Porto Alegre
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13203.m3u8
+#EXTINF:0 type="stream" tvg-chno="15" logo="https://1.bp.blogspot.com/-9OXZ96hqVpc/XnBVjQpCenI/AAAAAAABijo/24b0M58kdUMBOpWF9dcpH1cAQ3mlUYrYwCLcBGAsYHQ/s1600/redebrasillogo.png" tvg-country="br" group-title="Abertos", Rede Brasil
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13658.m3u8
+#EXTINF:0 type="stream" tvg-chno="-1", Item 204
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="20", Item 197
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="21" group="Abertos" logo="https://1.bp.blogspot.com/-v2E7Bs1aCWI/XnBV3vyRsYI/AAAAAAABim4/ksiWiCUM0jEhUrApdEsQcnCDI2aXVEBiwCLcBGAsYHQ/s1600/ulbratvlogo.png", Ulbra TV
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="-1", Item 287
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="-1", Item 190
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="24" group="Abertos" logo="https://1.bp.blogspot.com/-uh5B8WViSYo/XnBVhi7WZaI/AAAAAAABijY/khzBCI8uoIYr-iEkrnTlVA7ZZKSthkV8wCLcBGAsYHQ/s1600/rdctvlogo.png", RDC TV
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="25" group="Abertos" logo="https://1.bp.blogspot.com/-ObP7WlHBDrU/XnBVlGaoxwI/AAAAAAABij4/j0QSiUGqG4U7cFSu9X_cqGZmE8sECD-6QCLcBGAsYHQ/s1600/ritlogo.png", RIT
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="-1", Item 177
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="-1", Item 213
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="28" logo="https://1.bp.blogspot.com/-etwffzxU3zI/XnBVfDRHkiI/AAAAAAABijA/nEPCqt5ZILQgxX9ehmubzLxK99S6x_TcQCLcBGAsYHQ/s1600/polishoplogo.png" group-title="Abertos", Polishop TV  
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="29" group="Abertos" logo="https://1.bp.blogspot.com/-kcV9S60Kd_4/XnBVnKeB3FI/AAAAAAABikM/mcN_mEVcWSwFwMyDUhpGPyT7u88XGnH7wCLcBGAsYHQ/s1600/shoptimelogo.png", Shoptime
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="-1", Item 172
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="-1", Item 174
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="-1", Item 180
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="34" logo="https://1.bp.blogspot.com/-y_SXC7FYADw/XnBVLduRLrI/AAAAAAABifY/SjCeaG1UjJQ-pNwafoKyVTV4k2PSy1XoACLcBGAsYHQ/s1600/futuralogo.png" tvg-country="BR" group-title="Abertos", Futura  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13194.m3u8
+#EXTINF:0 type="stream" tvg-chno="35" logo="https://1.bp.blogspot.com/-wR3bzKIIc54/XnBU2bWGz-I/AAAAAAABicE/fgRqiVySJOEhvXcDpszWsRVc3frzxYBXwCLcBGAsYHQ/s1600/canalofflogo.png" tvg-country="BR" group-title="Esportes", OFF  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/4460.m3u8
+#EXTINF:0 type="stream" tvg-chno="-1", Item 167
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="37" logo="https://1.bp.blogspot.com/-DL7-fKJt5Yo/XnBVpwUz60I/AAAAAAABiko/9-YMZvSDQL4dJq6pMwH1IBqo8h-J-x05QCLcBGAsYHQ/s1600/sportv3logo.png" tvg-country="br" group-title="Esportes", SporTV 3  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/4019.m3u8
+#EXTINF:0 type="stream" tvg-chno="38" logo="https://1.bp.blogspot.com/-QirJ7O4BFNA/XnBVpreKNaI/AAAAAAABikk/hl48RgkcUZE4B64vImxCJ2pE5VqtOdDRwCLcBGAsYHQ/s1600/sportv2logo.png" tvg-country="br" group-title="Esportes", SporTV 2  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/4020.m3u8
+#EXTINF:0 type="stream" tvg-chno="39" logo="https://1.bp.blogspot.com/-QUGIaCLYqmg/XnBVqeQbYfI/AAAAAAABiks/bP9aHqtGj-oOeMvLXbM-HeHrh9xwJiJugCLcBGAsYHQ/s1600/sportvlogo.png" tvg-country="br" group-title="Esportes", SporTV  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/4018.m3u8
+#EXTINF:0 type="stream" tvg-chno="40" logo="https://1.bp.blogspot.com/-471TCAM7sv0/XnBVNB_oWeI/AAAAAAABifo/mALwDxBo3q0CskjqDqt29ovqKLp1qQWLACLcBGAsYHQ/s1600/globonewslogo.png" tvg-country="BR" group-title="Notícias", GloboNews
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/1475.m3u8
+#EXTINF:0 type="stream" tvg-chno="41" logo="https://1.bp.blogspot.com/-Q9tSAIJ98-c/XnBVOy24JYI/AAAAAAABif8/TbfIBJGfG9gOg5NlGjTgDNqMKZ5pwmP0ACLcBGAsYHQ/s1600/gntlogo.png" tvg-country="BR" group-title="Variedades", GNT  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13257.m3u8
+#EXTINF:0 type="stream" tvg-chno="42" logo="https://1.bp.blogspot.com/-w1R6jHFX-0Y/XnBVZiPMF3I/AAAAAAABih4/P104ygSc8YEOrHJK7e_iqZMquyDMBhOJQCLcBGAsYHQ/s1600/multishowlogo.png" tvg-country="BR" group-title="Variedades", Multishow  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13268.m3u8
+#EXTINF:0 type="stream" tvg-chno="43" logo="https://1.bp.blogspot.com/-AcMf80NLmlE/XnBU3R7jU6I/AAAAAAABicQ/47raL-7gwPMTUGMmeBQnqlTLLJvavrRVACLcBGAsYHQ/s1600/canalvivalogo.png" tvg-country="BR" group-title="Variedades", Viva  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13277.m3u8
+#EXTINF:0 type="stream" tvg-chno="44" logo="https://1.bp.blogspot.com/-4Wpa3HHN4kc/XnBVWm6GdSI/AAAAAAABihQ/J2ofgJKHYfoYTbgXSUwDofjimrUG8hnegCLcBGAsYHQ/s1600/maisglobosatlogo.png" tvg-country="br" group-title="Variedades", Mais Globosat  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13263.m3u8
+#EXTINF:0 type="stream" tvg-chno="-1", Item 170
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="-1", Item 211
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="-1", Item 169
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="-1", Item 178
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="-1", Item 175
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="50" logo="https://1.bp.blogspot.com/-LGOz-gEAKHE/XnBVByI6LBI/AAAAAAABid0/Mv_xSy2-ojQZVpqecASR_ib4nanieewdACLcBGAsYHQ/s1600/e%2521logo.png" tvg-country="BR" group-title="Variedades", E!  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13249.m3u8
+#EXTINF:0 type="stream" tvg-chno="51" logo="https://1.bp.blogspot.com/-B0Gx3rivFEE/XnF-alTmJdI/AAAAAAABiuY/jtljCai_9AgxGxcAojzZfXeK_7KVBNz1wCLcBGAsYHQ/s1600/FashionTVlogo.png" tvg-country="BR" group-title="Variedades", FashionTV Brasil  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13695.m3u8
+#EXTINF:0 type="stream" tvg-chno="52" logo="https://1.bp.blogspot.com/-ZcZ2iR8xLuw/XnBVvfIhBMI/AAAAAAABilo/BmOy855rnO80xgCgHojPP2keRw-SlV2YgCLcBGAsYHQ/s1600/tlclogo.png" tvg-country="BR" group-title="Variedades", TLC  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13271.m3u8
+#EXTINF:0 type="stream" tvg-chno="53" logo="https://1.bp.blogspot.com/-JpoiWrHW8co/XnBUt2ln-jI/AAAAAAABia0/kkyC8M_KXDkU7YkRmtO7qq-qJw7KAqzLgCLcBGAsYHQ/s1600/arte1logo.png" tvg-country="BR" group-title="Variedades", Arte 1  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13233.m3u8
+#EXTINF:0 type="stream" tvg-chno="54" logo="https://1.bp.blogspot.com/-5W4ljKBfrdY/XnBVGMoPgvI/AAAAAAABiek/Qma-Wnk-Q8IRvLoWyUqO8blyKY7MfOi_wCLcBGAsYHQ/s1600/foodnetworklogo.png" tvg-country="BR" group-title="Variedades", Food Network  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13254.m3u8
+#EXTINF:0 type="stream" tvg-chno="55" logo="https://1.bp.blogspot.com/-RnnniI0CjfQ/XnBVO6ixeFI/AAAAAAABif4/6pZkZn_hFW0_q6t44gIHalT104wZayPYwCLcBGAsYHQ/s1600/h%2526hlogo.png" tvg-country="BR" group-title="Variedades", Discovery Home & Health 
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13242.m3u8
+#EXTINF:0 type="stream" tvg-chno="56" logo="https://1.bp.blogspot.com/-4vWhsffieZo/XnBU7gUkIwI/AAAAAAABic4/xI1-R2VCvEkhYGcRLTjx0-Xb7wVNWdu0QCLcBGAsYHQ/s1600/curta%2521logo.png" tvg-country="BR" group-title="Variedades", Curta!  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13239.m3u8
+#EXTINF:0 type="stream" tvg-chno="63" logo="https://1.bp.blogspot.com/-4Zna82bh4o8/XnBVxHFGA3I/AAAAAAABil8/kWQ_AobNwnIf-OQzO4M1vZqSNFJCqYVBgCLcBGAsYHQ/s1600/travelboxbrazillogo.png" tvg-country="br" group-title="Variedades", Travel Box Brazil  
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/25367.m3u8
+#EXTINF:0 type="stream" tvg-chno="58" logo="https://1.bp.blogspot.com/-nNvAwep6qgg/XnBVF8FRENI/AAAAAAABieg/a5A2nYHawvEBxi-zaFGRH_Du3-x-LefkQCLcBGAsYHQ/s1600/fishtvlogo.png" tvg-country="BR" group-title="Esportes", Fish TV  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/4560.m3u8
+#EXTINF:0 type="stream" tvg-chno="59" logo="https://1.bp.blogspot.com/-Z_MCF1S7oT4/XnBVBEcNJKI/AAAAAAABids/SP6-vIrfmuEb_Li-2wVMGdAqvrMrGFwIwCLcBGAsYHQ/s1600/dogtvlogo.png" tvg-country="br" group-title="Premium", DogTV  
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/30554.m3u8
+#EXTINF:0 type="stream" tvg-chno="60" logo="https://1.bp.blogspot.com/-IFxE4KluZR0/XnBVTRSfwAI/AAAAAAABigw/F7SDuxnNJuU4fJx7Z0oIxmGVtKeqQfKVQCLcBGAsYHQ/s1600/hgtvlogo.png" tvg-country="BR", HGTV  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13131.m3u8
+#EXTINF:0 type="stream" tvg-chno="61" logo="https://1.bp.blogspot.com/-gHWw3ivKkqk/XnBUppYCevI/AAAAAAABiaU/fGlBpmSCjGsnX8qvPP1R0efjLnAA31STQCLcBGAsYHQ/s1600/24kitchenlogo.png" tvg-country="PT" group-title="Variedades", 24 Kitchen
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/22510.m3u8
+#EXTINF:0 type="stream" tvg-chno="62" logo="https://1.bp.blogspot.com/-HZuG5sgKm2c/XnBVxmjeT7I/AAAAAAABimA/5CFXsyANLOwnv-WdRPL4x1H3K_hWVxhVgCLcBGAsYHQ/s1600/travelchannellogo.png" tvg-country="PT" group-title="Variedades", Travel Channel
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="-1", Item 210
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="-1", Item 176
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="65" logo="https://1.bp.blogspot.com/-XN_2FOYYI9o/XnBV5lIflhI/AAAAAAABinU/zfWEyoZNV08ME85Bwh_vggYJnBsLBHIhACLcBGAsYHQ/s1600/woohoologo.png" tvg-country="BR" group-title="Esportes", WooHoo  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13280.m3u8
+#EXTINF:0 type="stream" tvg-chno="-1", Item 195
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="-1", Item 156
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="-1", Item 165
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="69" logo="https://1.bp.blogspot.com/-UCzpteM3vKo/XnBVDwWir0I/AAAAAAABieM/48XsccxjAC4n4JnUhOnlrBrRoFpZpPjJQCLcBGAsYHQ/s1600/espnextralogo.png" tvg-country="BR" group-title="Esportes", ESPN Extra  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/4274.m3u8
+#EXTINF:0 type="stream" tvg-chno="70" logo="https://1.bp.blogspot.com/-MAlOUsdCGXQ/XnBVDlbdwEI/AAAAAAABieE/RPptxHBzyTYzDN_13a82Hh4Nbvy1WOLgQCLcBGAsYHQ/s1600/espnbrasillogo.png" tvg-country="BR" group-title="Esportes", ESPN Brasil  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/4307.m3u8
+#EXTINF:0 type="stream" tvg-chno="71" logo="https://1.bp.blogspot.com/-CKbEcofQbiE/XnBVDp4tHKI/AAAAAAABieI/mPTSgLYENf4ItuGvlXybAmyyOqMI0zaugCLcBGAsYHQ/s1600/espnlogo.png" tvg-country="BR" group-title="Esportes", ESPN  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/4332.m3u8
+#EXTINF:0 type="stream" tvg-chno="72" logo="https://1.bp.blogspot.com/--O_nkPF-hhM/XnBVCjMXzzI/AAAAAAABieA/sHurLWHMXRwQni-pd_1OcA-ZfwIOfRLzACLcBGAsYHQ/s1600/espn2logo.png" tvg-country="BR" group-title="Esportes", ESPN 2  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/4266.m3u8
+#EXTINF:0 type="stream" tvg-chno="73" logo="https://1.bp.blogspot.com/-oEGEmaEQQmo/XnBVK91OTbI/AAAAAAABifQ/7LJ3i5rlGAE2nKoBX8v5Ise2TqqTk1-rACLcBGAsYHQ/s1600/foxsportslogo.png" tvg-country="BR" group-title="Esportes", FoxSports  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/4021.m3u8
+#EXTINF:0 type="stream" tvg-chno="74" logo="https://1.bp.blogspot.com/-Di4oQMJnbKg/XnBVKPdg7OI/AAAAAAABifM/czsnx_gn8xMqrqa6OTngpGnm-24ajAjfwCLcBGAsYHQ/s1600/foxsports2logo.png" tvg-country="BR" group-title="Esportes", FoxSports 2  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/4022.m3u8
+#EXTINF:0 type="stream" tvg-chno="75" logo="https://1.bp.blogspot.com/-I3X8b_4yB1Q/XnBUxhxge6I/AAAAAAABibU/XslxLyNOm_0aLAiki5GpoyBPeUvGNkFIACLcBGAsYHQ/s1600/bandsportslogo.png" tvg-country="BR" group-title="Esportes", Band Sports  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/4023.m3u8
+#EXTINF:0 type="stream" tvg-chno="242.1" logo="https://1.bp.blogspot.com/-GvXwAGB6HmI/XnF-cvx2pjI/AAAAAAABiuw/vcg8Uac_N4k8r5tact2rBUgNhBz1qpSLACLcBGAsYHQ/s1600/nbatvlogo.png" group-title="Internacionais" NBA TV
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="57" logo="https://1.bp.blogspot.com/-SMhF6cuVb4s/XnF-dk51tdI/AAAAAAABiu4/otjfe_hR4j04k4aCVNQ6FrQxufP4cNuygCLcBGAsYHQ/s1600/trutvlogo.png" tvg-country="BR" group-title="Variedades", TruTV  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13274.m3u8
+#EXTINF:0 type="stream" tvg-chno="77" logo="https://1.bp.blogspot.com/-8D8MHh-asQo/XnBU5pKPm6I/AAAAAAABico/QkMNe9evBpE6hc_Rg3cVFQkvFM3TmhKywCLcBGAsYHQ/s1600/cnn-brasil-logo.png" group-title="Notícias", CNN Brasil
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/22586.m3u8
+#EXTINF:0 type="stream" tvg-chno="78" logo="https://1.bp.blogspot.com/-msUgOeE-7GA/XnBVhv0pxkI/AAAAAAABijg/7UfOXuO2yYkeLMt_TKA1e1oUYngTxVa-QCLcBGAsYHQ/s1600/recordnewslogo.png" tvg-country="br" group-title="Notícias", Record News  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/1508.m3u8
+#EXTINF:0 type="stream" tvg-chno="79" logo="https://1.bp.blogspot.com/-9CL9_LAIuoI/XnBUwqsv5vI/AAAAAAABibQ/j874A2w4XtAktqdnwerGvnhrZa811x7YACLcBGAsYHQ/s1600/bandnewslogo.png" tvg-country="BR" group-title="Notícias", BandNews  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/1506.m3u8
+#EXTINF:0 type="stream" tvg-chno="80" logo="https://1.bp.blogspot.com/-x_PV-i-VuxQ/XnBVaborxmI/AAAAAAABiiE/YvYWThfW-N89ga5tFliOhdNv9wKN8vhsQCLcBGAsYHQ/s1600/natgeologo.png" tvg-country="br" group-title="Documentários", National Geographic
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13155.m3u8
+#EXTINF:0 type="stream" tvg-chno="81" logo="https://1.bp.blogspot.com/-Qs4fZsmTt1Y/XnBU8Jbre6I/AAAAAAABidA/os6cOOjO6-EypF3vJn0mvG-5hq1UI77fACLcBGAsYHQ/s1600/discoverychannellogo.png" tvg-country="BR" group-title="Documentários", Discovery Channel  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13128.m3u8
+#EXTINF:0 type="stream" tvg-chno="82" logo="https://1.bp.blogspot.com/-w1zDp2w-IJA/XnBUsnFMBSI/AAAAAAABiaw/gKGqbJJlT0sbbSvDXfxWMv--XpRL6mvagCLcBGAsYHQ/s1600/animalplanetlogo.png" tvg-country="BR" group-title="Documentários", Animal Planet  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13093.m3u8
+#EXTINF:0 type="stream" tvg-chno="83" logo="https://1.bp.blogspot.com/-GUxqaCjMaPs/XnBVT6ZdnpI/AAAAAAABig0/gK2f5OZwEhUU9JfeMDTOcV7ubdajRkGJQCLcBGAsYHQ/s1600/historychannellogo.png" tvg-country="BR" group-title="Documentários", History 
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13146.m3u8
+#EXTINF:0 type="stream" tvg-chno="84 logo="https://1.bp.blogspot.com/-mMr0Aa6RKQU/XnBU-9B3MMI/AAAAAAABidY/y2R4tE8X8sEq2fRLkMvU97JLwsZgjSo9gCLcBGAsYHQ/s1600/discoveryturbologo.png" tvg-country="BR" group-title="Documentários", Discovery Turbo  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13246.m3u8
+#EXTINF:0 type="stream" tvg-chno="85" logo="https://1.bp.blogspot.com/-IxvIEdy1ULs/XnF-bPuQ-lI/AAAAAAABiuc/IoTyUeDQdiYMR0XFtt1cxuqJfw5UN_XMgCLcBGAsYHQ/s1600/discoverysciencelogo.png" tvg-country="BR" group-title="Documentários", Discovery Science  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13134.m3u8
+#EXTINF:0 type="stream" tvg-chno="86" logo="https://1.bp.blogspot.com/-ZyjPYt2UPgg/XnBVXtbRelI/AAAAAAABihc/aHjv5iLQlKk11TxH1oBBrMZ63AgUIlH1wCLcBGAsYHQ/s1600/motortrendlogo.png" group-title="Internacionais", MotorTrend
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="-1", Item 155
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="-1", Item 158
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="89" logo="https://1.bp.blogspot.com/-jP78kuonqdA/XnBVWOzesrI/AAAAAAABihM/X-ld75_4zPIMseEkQvZQlmkko0eFNusigCLcBGAsYHQ/s1600/lovenaturelogo.png" tvg-country="br" group-title="Documentários", Love Nature
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1909.m3u8
+#EXTINF:0 type="stream" tvg-chno="90" logo="https://1.bp.blogspot.com/-GVNV_4-Hh5Y/XnF-dLGxr2I/AAAAAAABiu0/0ql-WO_0wrAxmRe66XMJHwL7gXPdUg7GACLcBGAsYHQ/s1600/smithsonianchannellogo.png" tvg-country="br" group-title="Documentários", Smithsonian Channel  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13158.m3u8
+#EXTINF:0 type="stream" tvg-chno="91" logo="https://1.bp.blogspot.com/-YZiEPxDKbM4/XnBVa9moz3I/AAAAAAABiiI/NIbkNqjpeUEJPWm8sdDuaFvmNHsKhKmFACLcBGAsYHQ/s1600/natgeowildlogo.png" tvg-country="BR" group-title="Documentários", National Geographic Wild  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13152.m3u8
+#EXTINF:0 type="stream" tvg-chno="92" logo="https://1.bp.blogspot.com/--Ie4SJwwtYk/XnBU-wZzGJI/AAAAAAABidU/vTjSanpUIdYY0ZzZBqVCvOAmIne4dDteQCLcBGAsYHQ/s1600/discoverytheaterlogo.png" tvg-country="BR" group-title="Documentários", Discovery Theater  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13137.m3u8
+#EXTINF:0 type="stream" tvg-chno="93" logo="https://1.bp.blogspot.com/-mnMsFVVlOmE/XnBU_Ykz1LI/AAAAAAABidc/rokHkAvQOfIURXlYhqwFu-yNe1lAJEvDwCLcBGAsYHQ/s1600/discoveryworldlogo.png" tvg-country="BR" group-title="Documentários", Discovery World  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13140.m3u8
+#EXTINF:0 type="stream" tvg-chno="94" logo="https://1.bp.blogspot.com/-APP4Ddheosk/XnBVPVTethI/AAAAAAABigA/1M56VgNw4sUgIVyh9Ujn-dC6WtIugZq-wCLcBGAsYHQ/s1600/h2logo.png" tvg-country="br" group-title="Documentários", History 2  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13143.m3u8
+#EXTINF:0 type="stream" tvg-chno="" logo="" group-title="Internacionais", item
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="-1", Item 186
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="-1", Item 212
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="-1", Item 185
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="-1", Item 182
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="100" logo="https://1.bp.blogspot.com/-IjiPUDKxXrs/XnBU9pdNyuI/AAAAAAABidM/oapzgj44XiAx7l2FIl_WYJMjQbIiPJ9BwCLcBGAsYHQ/s1600/discoverykidslogo.png" tvg-country="BR" group-title="Infantil", Discovery Kids  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/12939.m3u8
+#EXTINF:0 type="stream" tvg-chno="101" logo="https://1.bp.blogspot.com/-s-iBMTcLj04/XnBVN8KV0eI/AAAAAAABif0/DJ_BN0gykmQx_GG_pSu-UD1DoyTAVJXawCLcBGAsYHQ/s1600/glooblogo.png" tvg-country="br" group-title="Infantil", Gloob  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/12946.m3u8
+#EXTINF:0 type="stream" tvg-chno="102" logo="https://1.bp.blogspot.com/-_PSlTCy_qK8/XnBVAIcHDiI/AAAAAAABidg/J_79F4y4xLwfcfYypgSLwVJX5xbNEuLtwCLcBGAsYHQ/s1600/disneychannellogo.png" tvg-country="BR" group-title="Infantil", Disney Channel 
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/12942.m3u8
+#EXTINF:0 type="stream" tvg-chno="103" logo="https://1.bp.blogspot.com/-ABT5r2JzG-c/XnBVdf0OacI/AAAAAAABiik/oVhxy_80gj8BCe6fgBLF4uAN0vweddtzgCLcBGAsYHQ/s1600/nicklogo.png" tvg-country="BR" group-title="Infantil", Nick  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/12958.m3u8
+#EXTINF:0 type="stream" tvg-chno="104" logo="https://1.bp.blogspot.com/-Wq-B19UN0kc/XnBU4NA0FaI/AAAAAAABicY/P9vkb5KB9WkThKicqyt5kSGW1SyqJPZWwCLcBGAsYHQ/s1600/cartoonnetworklogo.png" tvg-country="BR" group-title="Infantil", Cartoon Network  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/12933.m3u8
+#EXTINF:0 type="stream" tvg-chno="105" logo="https://1.bp.blogspot.com/-wgNuUms3wZU/XnBVAq_QjJI/AAAAAAABido/IQhU8o1ajoo8MVyUaSwIAn1kPZ6uoYTPQCLcBGAsYHQ/s1600/disneylogo.png" tvg-country="BR" group-title="Infantil", Disney XD  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/12943.m3u8
+#EXTINF:0 type="stream" tvg-chno="106" logo="https://1.bp.blogspot.com/-l06GLZub3f4/XnBVAAxmvqI/AAAAAAABidk/no_dCt9gmvAuOZ-Ojk5eBpdA_zt4_8CMwCLcBGAsYHQ/s1600/disneyjuniorlogo.png" tvg-country="BR" group-title="Infantil", Disney Junior  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/12936.m3u8
+#EXTINF:0 type="stream" tvg-chno="107" logo="https://1.bp.blogspot.com/-7VDAwhimLk0/XnBVck0gHvI/AAAAAAABiig/ozN9_wwpedknqHbgxbsDtUUk8dVL_awcgCLcBGAsYHQ/s1600/nickjrlogo.png" tvg-country="BR" group-title="Infantil", Nick Jr.
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/12955.m3u8
+#EXTINF:0 type="stream" tvg-chno="108" logo="https://1.bp.blogspot.com/-Omv_yB7e70A/XnBUz9vdmSI/AAAAAAABibs/5jVlRxPn5ukjS-IeUR3naDYGBuJylHlCACLcBGAsYHQ/s1600/boomeranglogo.png" tvg-country="BR" group-title="Infantil", Boomerang  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/12930.m3u8
+#EXTINF:0 type="stream" tvg-chno="109" logo="https://1.bp.blogspot.com/-2-h9wj65mPw/XnBVg1cNRfI/AAAAAAABijU/zVNiIrMXmlw7dKF5jsaNd_dS4ZN5XXUYwCLcBGAsYHQ/s1600/ratimbumlogo.png" tvg-country="BR" group-title="Infantil", TV Ra tim bum 
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/12965.m3u8
+#EXTINF:0 type="stream" tvg-chno="110" logo="https://1.bp.blogspot.com/-y5TEp7XK1Yc/XnBVw5xJw3I/AAAAAAABil4/hnjmt4ytcn4IQw0et2jku3T75hJ-CXMngCLcBGAsYHQ/s1600/tooncastlogo.png" tvg-country="BR" group-title="Infantil", Tooncast
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/12962.m3u8
+#EXTINF:0 type="stream" tvg-chno="111" logo="https://1.bp.blogspot.com/-zVEXKEs5Ehs/XnF-bD11oTI/AAAAAAABiug/Av0pCvLFZQgwB_iQPpGT3gYvHPiDeK4XQCLcBGAsYHQ/s1600/babytvlogo.png" tvg-country="BR" group-title="Infantil", BabyTV
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/12927.m3u8
+#EXTINF:0 type="stream" tvg-chno="112" logo="https://1.bp.blogspot.com/-Rltv0pbUgX4/XnBVaOqvylI/AAAAAAABiiA/RyVNpmfoCK4IQhaImthwJdpkdJ7O_3rZQCLcBGAsYHQ/s1600/natgeokidslogo.png" tvg-country="BR" group-title="Infantil", NatGeo Kids  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/12952.m3u8
+#EXTINF:0 type="stream" tvg-chno="113" logo="https://1.bp.blogspot.com/-wUZ11_lyZSg/XnBV69DbHqI/AAAAAAABinc/b8gV1UcE7Lc9B4kqV3xZMvlwjicby7ZbwCLcBGAsYHQ/s1600/zoomoologo.png" tvg-country="BR" group-title="Infantil", ZooMoo
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13684.m3u8
+#EXTINF:0 type="stream" tvg-chno="114" logo="https://1.bp.blogspot.com/-G7gumYBb27c/XnBVNrlH8PI/AAAAAAABifs/gfE_3VEZ39gDDxnM94LVByZDytQizb7SQCLcBGAsYHQ/s1600/gloobinhologo.png" tvg-country="BR" group-title="Infantil", Gloobinho
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/12949.m3u8
+#EXTINF:0 type="stream" tvg-chno="115" logo="https://1.bp.blogspot.com/-tLCd_dBnSNo/XnBUzFl3l6I/AAAAAAABibk/yYueocr04gwzylynhd5IW6HbZtBmHtgCgCLcBGAsYHQ/s1600/biggslogo.png", Biggs
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="116.1" logo="https://1.bp.blogspot.com/-Y2Dbybuu--U/XnBVeo_Y_XI/AAAAAAABii4/7CRjmy2VUTQEETvUSYeXvSYlN9ywXlN3QCLcBGAsYHQ/s1600/playkidslogo.png" tvg-country="br" group-title="Infantil", Playkids  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/12961.m3u8
+#EXTINF:0 type="stream" tvg-chno="-1", Item 208
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="-1", Item 206
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="-1", Item 214
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="120" logo="https://1.bp.blogspot.com/-RPCNSWO-6S0/XnBU08v9_rI/AAAAAAABib8/bzE9zeXhL9oxDPemBMvB6xv2KgC47d9SgCLcBGAsYHQ/s1600/canalbislogo.png" tvg-country="BR" group-title="Variedades", Bis  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13244.m3u8
+#EXTINF:0 type="stream" tvg-chno="121" logo="https://1.bp.blogspot.com/-kExEoCZ1Wh0/XnBVZLnEUII/AAAAAAABih0/AnsiEkKEWNMOY4iobmisgigAgf3okfJEwCLcBGAsYHQ/s1600/mtvlogo.png" tvg-country="BR" group-title="Variedades", MTV  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13251.m3u8
+#EXTINF:0 type="stream" tvg-chno="122" logo="https://1.bp.blogspot.com/-O-IDGTmwLpY/XnBVfPp7q4I/AAAAAAABii8/WV00kaLitg0TYLjdmHnYZjD9ik5It2wbQCLcBGAsYHQ/s1600/playtvlogo.png" tvg-country="br" group-title="Abertos", PlayTV
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13681.m3u8
+#EXTINF:0 type="stream" tvg-chno="123" logo="https://1.bp.blogspot.com/-OB8LRU6m82s/XnBVZ0_-cNI/AAAAAAABih8/nhG173sBhTgUjyMC0O0PQvUSGdoCCKKjwCLcBGAsYHQ/s1600/musixboxbrazillogo.png" tvg-country="BR" group-title="Variedades", Music Box Brazil  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13678.m3u8
+#EXTINF:0 type="stream" tvg-chno="-1", Item 157
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="125" logo="https://1.bp.blogspot.com/-fJ1NOzYj3Xk/XnBV4tE19iI/AAAAAAABinI/8ZnWinMDaiY-thrNVLgA-zfhkw-nYY9UgCLcBGAsYHQ/s1600/vh1logo.png" tvg-country="BR" group-title="Variedades", VH1 HD  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13283.m3u8
+#EXTINF:0 type="stream" tvg-chno="126" logo="https://1.bp.blogspot.com/-UmWFdS7BuIc/XnBV4xSKaII/AAAAAAABinM/ajhjUGKdkBQimZnGjwX_Vn1gS3j_UGHLgCLcBGAsYHQ/s1600/vh1megahitslogo.png" tvg-country="BR" group-title="Variedades", VH1 MegaHits
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13293.m3u8
+#EXTINF:0 type="stream" tvg-chno="127" logo="https://1.bp.blogspot.com/-sPYWnSJe7xw/XnBVYqvaGII/AAAAAAABihs/zBIx7QaZsgYmEWEiABUeHofU-SGSSjHlQCLcBGAsYHQ/s1600/mtvhitslogo.png" tvg-country="br" group-title="Variedades", MTV Hits
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="128" logo="https://1.bp.blogspot.com/-FF6ue4VK1UA/XnBVYw-OOHI/AAAAAAABihw/XPfid_3bjQcB-y5NZGYfcbipt8C0735KACLcBGAsYHQ/s1600/mtvlivelogo.png" tvg-country="br" group-title="Variedades", MTV Live HD  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13264.m3u8
+#EXTINF:0 type="stream" tvg-chno="129" logo="https://1.bp.blogspot.com/-WtgZQBiZ_q4/XnBVYUl5N9I/AAAAAAABiho/WhWKnW8ivJk26FT1jjMVbOLaSx_BUJaeACLcBGAsYHQ/s1600/mtvdancelogo.png" tvg-country="br" group-title="Variedades", MTV Dance
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="130" logo="https://1.bp.blogspot.com/-DJI4pJjQq6g/XnBV32Vz-PI/AAAAAAABim8/LgXp8u2kEGUWeVADTeu5CGiROEQMFdOJQCLcBGAsYHQ/s1600/universaltvlogo.png" tvg-country="BR" group-title="Filmes e Séries", Universal TV  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13312.m3u8
+#EXTINF:0 type="stream" tvg-chno="131" logo="https://1.bp.blogspot.com/-dlURF25rCg8/XnBVHKyyMAI/AAAAAAABiew/shueHwEtx48hQKgT_F9jWQEAp7LXn8OrACLcBGAsYHQ/s1600/foxchannellogo.png" tvg-country="br" group-title="Filmes e Séries", Fox Channel  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/7062.m3u8
+#EXTINF:0 type="stream" tvg-chno="132" logo="https://1.bp.blogspot.com/-hMncYOvzqR0/XnBV5VqWTxI/AAAAAAABinQ/pHJyUqmYFAgPn0T1EO_9YIW0zoI_s7OiwCLcBGAsYHQ/s1600/warnertvlogo.png" tvg-country="BR" group-title="Filmes e Séries", Warner Channel  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13314.m3u8
+#EXTINF:0 type="stream" tvg-chno="133" logo="https://1.bp.blogspot.com/-UApESHNlLt0/XnBU2xUwPQI/AAAAAAABicM/FYTT2u8KjmwK33wtFL8XKdeoZ5SwWFbGQCLcBGAsYHQ/s1600/canalsonylogo.png" tvg-country="BR" group-title="Filmes e Séries", Sony Channel  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/7043.m3u8
+#EXTINF:0 type="stream" tvg-chno="134.1" logo="https://1.bp.blogspot.com/-98rkfdcVH68/XnBVL8oZIgI/AAAAAAABifc/kf6RVns1YPkvW7pzeWBBsnKtjYwqNzbHACLcBGAsYHQ/s1600/fxlogo.png" tvg-country="BR" group-title="Filmes e Séries", FX  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/7083.m3u8
+#EXTINF:0 type="stream" tvg-chno="135.1" logo="https://1.bp.blogspot.com/-gq1ZWyJQt1Q/XnBUu1pvfUI/AAAAAAABibA/_q7nmaW6IGsIc3cSWiDGF535Eb3XhB4KACLcBGAsYHQ/s1600/axnlogo.png" tvg-country="BR" group-title="Filmes e Séries", AXN  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/7039.m3u8
+#EXTINF:0 type="stream" tvg-chno="136" logo="https://1.bp.blogspot.com/-0MgE1PzDaK4/XnBVrd6WIWI/AAAAAAABik8/A5Y6NonD8QUNEKJncQ82HzqeB8D5z6f8gCLcBGAsYHQ/s1600/tbslogo.png" tvg-country="br" group-title="Filmes e Séries", TBS  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13291.m3u8
+#EXTINF:0 type="stream" tvg-chno="137" logo="https://1.bp.blogspot.com/-kPk20hbMcho/XnBU6zikZBI/AAAAAAABic0/zMu7kTsvTxogbxVK7u0MOICt0WJrkSMIACLcBGAsYHQ/s1600/comedycentrallogo.png" tvg-country="BR" group-title="Filmes e Séries", Comedy Central  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13236.m3u8
+#EXTINF:0 type="stream" tvg-chno="138" logo="https://1.bp.blogspot.com/-2DU88FJ54uE/XnBUrHwVk2I/AAAAAAABiac/Cjtowc4HqU0cEDr2BevB9tbCMpA8QCaewCLcBGAsYHQ/s1600/a%2526elogo.png" group-title="Filmes e Séries", A&E  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/7035.m3u8
+#EXTINF:0 type="stream" tvg-chno="139" logo="https://1.bp.blogspot.com/-qR0-IrApyjw/XnF-cd9tC3I/AAAAAAABius/EkD8YQ0lx5U16dYY8dFd_Aqsgg-tRmCpgCLcBGAsYHQ/s1600/idlogo.png" tvg-country="br" group-title="Documentários", ID: Investigação Discovery
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13149.m3u8
+#EXTINF:0 type="stream" tvg-chno="140" logo="https://1.bp.blogspot.com/-PRkNYkv96kM/XnBVrXlH7oI/AAAAAAABik4/J9xb_WE3Huw6gxTZ_eAuDne2NTNBQfhBwCLcBGAsYHQ/s1600/syfylogo.png" tvg-country="br" group-title="Filmes e Séries", Syfy  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13284.m3u8
+#EXTINF:0 type="stream" tvg-chno="141" logo="https://1.bp.blogspot.com/-nhVg61-8h5E/XnBVVIDuPsI/AAAAAAABihE/Yl6AyjGQR38Bhq0RUUzBEr5Q12WmuRvTgCLcBGAsYHQ/s1600/lifetimelogo.png" tvg-country="br" group-title="Filmes e Séries", Lifetime  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13260.m3u8
+#EXTINF:0 type="stream" tvg-chno="142" logo="https://1.bp.blogspot.com/-bhQFenKTslo/XnBVVBnQV0I/AAAAAAABihA/i-Y3DTKFjvse_XhTB0YPzQ_cxIZbwrmEwCLcBGAsYHQ/s1600/isatlogo.png" tvg-country="br" group-title="Filmes e Séries", I.Sat
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="143" logo="https://1.bp.blogspot.com/-LlFqgFlVV48/XnBVv0b-O0I/AAAAAAABils/rxHiwQkuh3c_GJJBYHTLAc0cBZsKpZyBgCLcBGAsYHQ/s1600/tntserieslogo.png" tvg-country="BR" group-title="Filmes e Séries", TNT Séries  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13310.m3u8
+#EXTINF:0 type="stream" tvg-chno="144" logo="https://1.bp.blogspot.com/-j_ItK-fLG6o/XnBVIYmRDMI/AAAAAAABie4/QOdKSM8DVjsQOyiWOhLtL1JTp2KoECnbQCLcBGAsYHQ/s1600/foxlifelogo.png" tvg-country="BR" group-title="Filmes e Séries", FOXLife  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/7065.m3u8
+#EXTINF:0 type="stream" tvg-chno="145" logo="https://1.bp.blogspot.com/-VqpjuatvtFI/XnBUsRbzfBI/AAAAAAABias/eXHTDZ9JYLYPRdXcjJdZwRo_w6ZCaDIoACLcBGAsYHQ/s1600/amclogo.png" tvg-country="BR" group-title="Filmes e Séries", AMC  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/7037.m3u8
+#EXTINF:0 type="stream" tvg-chno="146" logo="https://1.bp.blogspot.com/-naIGy7iHjMU/XnBVVPN3_vI/AAAAAAABihI/jZKG7rNSOo0JnGtBzlHva84mYKhyo1ysACLcBGAsYHQ/s1600/lifetimemovieslogo.png" tvg-country="BR" group-title="Filmes e Séries", Lifetime Movies Network
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="147" logo="https://1.bp.blogspot.com/-ms9Ys4dmgLQ/XnBVE2MJegI/AAAAAAABieU/j5LeX-oRZKkR8U0MAktq5mmB6C2FTWrWwCLcBGAsYHQ/s1600/eurochannellogo.png" tvg-country="br" group-title="Filmes e Séries", EuroChannel
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1666.m3u8
+#EXTINF:0 type="stream" tvg-chno="148" logo="https://1.bp.blogspot.com/-xRBNR42_xgE/XnF-biehAFI/AAAAAAABiuk/YUXOnl9r328NqovaXRRfRCKoT0tYOiFLACLcBGAsYHQ/s1600/filmandartslogo.png" tvg-country="BR" group-title="Filmes e Séries", Film&Arts
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13315.m3u8
+#EXTINF:0 type="stream" tvg-chno="149" logo="https://1.bp.blogspot.com/-vD6VKr7Dt9U/XnBVHNrHKiI/AAAAAAABies/VZ9EPr3HuLoX3mYDz5wkz-uzfBAEzrR_QCLcBGAsYHQ/s1600/foxcomedylogo.png" tvg-country="pt" group-title="Filmes e Séries", Fox Comedy
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="150" logo="https://1.bp.blogspot.com/-_mj38GQ-AMU/XnBU0fW31lI/AAAAAAABib0/Adhvd3saft8NX2vkns4KzFsDnLSW4hClACLcBGAsYHQ/s1600/canal-brasil-logo-5.png" tvg-country="BR" group-title="Filmes e Séries", Canal Brasil  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/7041.m3u8
+#EXTINF:0 type="stream" tvg-chno="151" logo="https://1.bp.blogspot.com/-hUH-f4gx4qw/XnBVwP922QI/AAAAAAABilw/fjniEvKzOfYYrCshn7FN45z0-_G6PbXTACLcBGAsYHQ/s1600/tnttvlogo.png" tvg-country="BR" group-title="Variedades", TNT  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13308.m3u8
+#EXTINF:0 type="stream" tvg-chno="152" logo="https://1.bp.blogspot.com/-Uk8apHgXb98/XnBVWmIbg3I/AAAAAAABihU/3LHofBqAMCQYayeko3NjUByJzni82bPXwCLcBGAsYHQ/s1600/megapixlogo.png" tvg-country="br" group-title="Filmes e Séries", Megapix  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/7727.m3u8
+#EXTINF:0 type="stream" tvg-chno="153" logo="https://1.bp.blogspot.com/--BOW6w0gVyw/XnBVHoUT_8I/AAAAAAABie0/I1aCiyZ7XV0KAz8BwKAg7DznpXLeBwXTQCLcBGAsYHQ/s1600/foxcrimelogo.png" tvg-country="pt" group-title="Filmes e Séries", Fox Crime
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="154" logo="https://1.bp.blogspot.com/-522rZS7Tc88/XnBVpuxQZuI/AAAAAAABikg/8dyT1yCBA4QFpw3vWi5ggXT6rCFiuXy6QCLcBGAsYHQ/s1600/spacelogo.png" tvg-country="br" group-title="Filmes e Séries", Space  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13286.m3u8
+#EXTINF:0 type="stream" tvg-chno="155" logo="https://1.bp.blogspot.com/-3-d13kXfmSo/XnBVgXOBNcI/AAAAAAABijM/SE7WL48mrHEOmsbDzPcUyitjsvLdvzM5wCLcBGAsYHQ/s1600/primeboxbrazillogo.png" tvg-country="br" group-title="Filmes e Séries", Prime Box Brazil  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13294.m3u8
+#EXTINF:0 type="stream" tvg-chno="156" logo="https://1.bp.blogspot.com/-Pmdr7crr2po/XnBU5fbo4nI/AAAAAAABicg/EPu5tdbPExE4zZMHmuzvheFIbx7zPO5BgCLcBGAsYHQ/s1600/cinemaxlogo.png" tvg-country="BR" group-title="Filmes e Séries", Cinemax  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/7045.m3u8
+#EXTINF:0 type="stream" tvg-chno="157" logo="https://1.bp.blogspot.com/-zBUUliuI7_4/XnBVq8_7GxI/AAAAAAABik0/ncpLX9UxUoI6Dew8xDKDoXhw63W5vrybACLcBGAsYHQ/s1600/studiouniversallogo.png" tvg-country="br" group-title="Filmes e Séries", Studio Universal  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13288.m3u8
+#EXTINF:0 type="stream" tvg-chno="158" logo="https://1.bp.blogspot.com/-9on0bjrBjFU/XnBVdqwQJAI/AAAAAAABiis/KZmZVpb7klsdJ0xYcwh2cg1TiUufcznWACLcBGAsYHQ/s1600/paramountchannellogo.png" tvg-country="BR" group-title="Filmes e Séries", Paramount Channel  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13281.m3u8
+#EXTINF:0 type="stream" tvg-chno="159" logo="https://1.bp.blogspot.com/-6zhASWJ19gg/XnBVsVFvlXI/AAAAAAABilI/Tk714mgPLFkEbdZo2Pk-hxczTjqU42w2gCLcBGAsYHQ/s1600/tcmlogo.png" tvg-country="br" group-title="Filmes e Séries", TCM  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13292.m3u8
+#EXTINF:0 type="stream" tvg-chno="160" logo="https://1.bp.blogspot.com/-a7fStHo0aU0/XnBVIvXsWzI/AAAAAAABie8/b7wJa8brBvsOCqpeaZXRJmkQT_V7eotjACLcBGAsYHQ/s1600/foxmovieslogo.png" tvg-country="pt" group-title="Filmes e Séries", Fox Movies
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="-1", Item 209
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="161" logo="https://1.bp.blogspot.com/-siZTbsxPHfk/XnBVtbfGldI/AAAAAAABilQ/dUWgjVaLuaQAlwGPYOXLpS1jR6TPRu5uQCLcBGAsYHQ/s1600/tcpremiumlogo.png" tvg-country="br" group-title="Premium", Telecine Premium  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13304.m3u8
+#EXTINF:0 type="stream" tvg-chno="162" logo="https://1.bp.blogspot.com/-UCn0PmC55mk/XnBVrqqFyYI/AAAAAAABilA/7Nh3rwLldz0ygX2EqqRH_pgQatHtuX_2ACLcBGAsYHQ/s1600/tcactionlogo.png" tvg-country="br" group-title="Premium", Telecine Action  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13296.m3u8
+#EXTINF:0 type="stream" tvg-chno="163" logo="https://1.bp.blogspot.com/-EFLIuqiHyvY/XnBVtlOYu9I/AAAAAAABilU/dvcUSCF-eqAzFJxdxhPZXZO5L7VxpUfwgCLcBGAsYHQ/s1600/tctouchlogo.png" tvg-country="BR" group-title="Premium", Telecine Touch  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13305.m3u8
+#EXTINF:0 type="stream" tvg-chno="164" logo="https://1.bp.blogspot.com/-9BlfxPJhPjo/XnBVsbWlIAI/AAAAAAABilE/ahpg23ylo7ADbuDYynfbkKMNIZ2FYjQdACLcBGAsYHQ/s1600/tcfunlogo.png" tvg-country="br" group-title="Premium", Telecine Fun  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13299.m3u8
+#EXTINF:0 type="stream" tvg-chno="165" logo="https://1.bp.blogspot.com/-cCK-7pPwiMs/XnBVsi4BqHI/AAAAAAABilM/feje44d137woa0viLajiafpOb4U7zNrxwCLcBGAsYHQ/s1600/tcpipocalogo.png" tvg-country="br" group-title="Premium", Telecine Pipoca  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13302.m3u8
+#EXTINF:0 type="stream" tvg-chno="166" logo="https://1.bp.blogspot.com/-GqzmEsCynh4/XnBVtkAfSUI/AAAAAAABilY/uJt5tyi435ABVSsd8w4h8TsNiXEseXcaACLcBGAsYHQ/s1600/telecinecultlogo.png" tvg-country="BR" group-title="Premium", Telecine Cult  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13298.m3u8
+#EXTINF:0 type="stream" tvg-chno="168" logo="https://1.bp.blogspot.com/-NTXO3DMsWao/XnBVPzItGuI/AAAAAAABigE/RzRqLweF8kgHcCup_WUF8nFKsyLuz6QbgCLcBGAsYHQ/s1600/hallmarkchannellogo.png" group-title="Internacionais", Hallmark Channel
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="169" logo="https://1.bp.blogspot.com/-RkWhKLadbQc/XnBVnRXnk5I/AAAAAAABikQ/rXjumbqV-6sto2RLI6mmNO6sivuOwm1bgCLcBGAsYHQ/s1600/showtimelogo.png" group-title="Internacionais", Showtime
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="170" logo="https://1.bp.blogspot.com/-KA654M13tBY/XnBV30nPyuI/AAAAAAABinA/0S5EIDcwcQU4VlYDfxe1tAjUeZd0qjUvgCLcBGAsYHQ/s1600/usanetworklogo.png" group-title="Internacionais", USA Network
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="171" logo="https://1.bp.blogspot.com/-hlxP5YjuLHY/XnBVQ-Il-tI/AAAAAAABigU/LvbgANzqWoIH-ybONTmG1K4GzrzFSoSTwCLcBGAsYHQ/s1600/hbologo.png" tvg-country="BR" group-title="Premium", HBO
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/7163.m3u8
+#EXTINF:0 type="stream" tvg-chno="172" logo="https://1.bp.blogspot.com/-PHznWQty_UM/XnBVQO6lI5I/AAAAAAABigI/56ReLBwtdt4w94VZbfZnywb2tpKrdD0TQCLcBGAsYHQ/s1600/hbo2logo.png" tvg-country="BR" group-title="Premium", HBO 2  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/7086.m3u8
+#EXTINF:0 type="stream" tvg-chno="174" logo="https://1.bp.blogspot.com/-e80CBXOFS1Y/XnBVQdnDhKI/AAAAAAABigM/ainCcXwOsNkalg1osAcxuhZwzEPjwNz_wCLcBGAsYHQ/s1600/hbocomedylogo.png" tvg-country="PT" group-title="Premium", HBO Comedy
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="173" logo="https://1.bp.blogspot.com/-IufBnpMA1FI/XnBVRoS6sjI/AAAAAAABigY/m_Og2dAMaTk6pz3A-4i9BcgiGID4KD--ACLcBGAsYHQ/s1600/hbopluslogo.png" tvg-country="BR" group-title="Premium", HBO Plus
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/7717.m3u8
+#EXTINF:0 type="stream" tvg-chno="175" logo="https://1.bp.blogspot.com/-jJyHKSDqyx8/XnBVQm_xwPI/AAAAAAABigQ/UqpRm9QXc-AFpXHTMP1W-vMRLfdx5N0QACLcBGAsYHQ/s1600/hbofamilylogo.png" tvg-country="BR" group-title="Premium", HBO Family  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/7113.m3u8
+#EXTINF:0 type="stream" tvg-chno="176" logo="https://1.bp.blogspot.com/-1hiP1Rc36Y8/XnBVSUMVb1I/AAAAAAABigk/qtiLvdVn6F0RnK4LVj8sJQpL9pxgKwiAQCLcBGAsYHQ/s1600/hbosignaturelogo.png" tvg-country="BR" group-title="Premium", HBO Signature
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/7718.m3u8
+#EXTINF:0 type="stream" tvg-chno="177" logo="https://1.bp.blogspot.com/-JM17c01WH3M/XnBVSJv3QXI/AAAAAAABigg/juFKIXRWK_cyLeuJWpBePA-OUBnr4jJ0QCLcBGAsYHQ/s1600/hbopoplogo.png" tvg-country="br" group-title="Premium", MAX UP  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/7725.m3u8
+#EXTINF:0 type="stream" tvg-chno="178" logo="https://1.bp.blogspot.com/-5GtNyILMr0o/XnBVRk-sAnI/AAAAAAABigc/LylVGM6FHTMEDXRc0kE-CZNLgTWNJFt2ACLcBGAsYHQ/s1600/hbomundilogo.png" tvg-country="br" group-title="Premium", MAX
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/7721.m3u8
+#EXTINF:0 type="stream" tvg-chno="179" logo="https://1.bp.blogspot.com/-vsenYlBDTok/XnBVSsiQu3I/AAAAAAABigo/L7pfLth5AvswYACyY9AgkitzTCXwwZmYQCLcBGAsYHQ/s1600/hboxtremelogo.png" tvg-country="br" group-title="Premium", MAX Prime
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/7723.m3u8
+#EXTINF:0 type="stream" tvg-chno="180" logo="https://1.bp.blogspot.com/-T2aun5fpF3Q/XnBVSzbx_DI/AAAAAAABigs/0R7B-1mOChMGVPZsGzStYcs4_rnIp4TywCLcBGAsYHQ/s1600/hbozonelogo.png" tvg-country="br" group-title="Premium", HBO Zone
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="181" logo="https://1.bp.blogspot.com/-gyupqPoKKy0/XnBVJntzo6I/AAAAAAABifI/6mHpagTypGIpZ_C37JDKjqRhPnAGglV2gCLcBGAsYHQ/s1600/foxpremiumlogo.png" tvg-country="BR" group-title="Premium", Fox Premium 1  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/7078.m3u8
+#EXTINF:0 type="stream" tvg-chno="182" logo="https://1.bp.blogspot.com/-DBR4yPrPLew/XnBVJVVdHnI/AAAAAAABifE/3SlNk--GBhcXv7iDHqAYgQ1emj8F387nQCLcBGAsYHQ/s1600/foxpremium2logo.png" tvg-country="BR" group-title="Premium", Fox Premium 2  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/7081.m3u8
+#EXTINF:0 type="stream" tvg-chno="183" logo="https://1.bp.blogspot.com/-yYkcUmiTJmE/XnBVu7b7GnI/AAAAAAABilk/MVpLcb5D_eEqH06xb9SxUlvbY9pi12Z5ACLcBGAsYHQ/s1600/terravivalogo.png" tvg-country="BR" group-title="Abertos", Terra Viva
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13201.m3u8
+#EXTINF:0 type="stream" tvg-chno="184" logo="https://1.bp.blogspot.com/-qTUZbwRy68c/XnBV2OD-V2I/AAAAAAABimo/WDwVUOwVsMwqjiVLhVbD83JL50XzVVUXQCLcBGAsYHQ/s1600/tvnovotempologo.png" group-title="Abertos", TV Novo Tempo
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13729.m3u8
+#EXTINF:0 type="stream" tvg-chno="185" logo="https://1.bp.blogspot.com/-q0UMAVlDmLg/XnBU2UoH0UI/AAAAAAABicI/NYgnR3pH14gdDfpDPVcItY_7rthI8zZWwCLcBGAsYHQ/s1600/canalrurallogo.png" tvg-country="BR" group-title="Abertos", Canal Rural
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13206.m3u8
+#EXTINF:0 type="stream" tvg-chno="-1", Item 149
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="-1", Item 199
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="-1", Item 220
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="-1", Item 189
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="-1", Item 181
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="190" logo="https://1.bp.blogspot.com/-759Hrj6Ty3M/XnBU13ela0I/AAAAAAABicA/5dFVsyht_sgY6kl4bg8VJCyanD0569y4gCLcBGAsYHQ/s1600/canaldoboilogo.png" tvg-country="br" group-title="Abertos", Canal do Boi
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13662.m3u8
+#EXTINF:0 type="stream" tvg-chno="191" logo="https://1.bp.blogspot.com/-bRJw8Esah1k/XnBV2SUxu6I/AAAAAAABims/UYSxq-MGZJIkrgHzZrzlBF4SmTRRNo81ACLcBGAsYHQ/s1600/tvpaieternologo.png" tvg-country="br" group-title="Abertos", TV Pai Eterno
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1917.m3u8
+#EXTINF:0 type="stream" tvg-chno="-1", Item 224
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="193" logo="https://1.bp.blogspot.com/-HDPw3dWhRUY/XnBVkfXcQ_I/AAAAAAABijw/x2BA3vkI5jAgZRkGmEv_WNeFxmESKa7fwCLcBGAsYHQ/s1600/redevidalogo.png" tvg-country="br" group-title="Abertos", Rede Vida  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/12969.m3u8
+#EXTINF:0 type="stream" tvg-chno="194" logo="https://1.bp.blogspot.com/-BSMjT8y8VJ0/XnBU33c82YI/AAAAAAABicU/y4MfupAdrZcMgs3u379rEUbOIzkZC3DDQCLcBGAsYHQ/s1600/cancaonovalogo.png" tvg-country="br" group-title="Abertos", Canção Nova
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/12966.m3u8
+#EXTINF:0 type="stream" tvg-chno="195" logo="https://1.bp.blogspot.com/-xS1QN0tDcM0/XnBUuFAjwiI/AAAAAAABia8/pGIG4ZIY51Aub4j_MAatSTtEH7DOk8UbQCLcBGAsYHQ/s1600/aparecidalogo.png" tvg-country="BR" group-title="Abertos", Aparecida
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/12970.m3u8
+#EXTINF:0 type="stream" tvg-chno="196" logo="https://1.bp.blogspot.com/-_CKB1s1ohRw/XnBUzd24WWI/AAAAAAABibo/fPHzW9LBQS4yuSFR3uizq-yjzg-bQf70ACLcBGAsYHQ/s1600/boavontadetvlogo.png" tvg-country="br" group-title="Abertos", Boa Vontade TV
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13730.m3u8
+#EXTINF:0 type="stream" tvg-chno="200" logo="https://1.bp.blogspot.com/-ZyYSQgTpj0k/XnBU6qTqtjI/AAAAAAABics/rVeRNkjRYQY8-x13ewSaArc22cphj4HfgCLcBGAsYHQ/s1600/cnn-logo.png" tvg-country="BR" group-title="Internacionais", CNNi
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="201.1" logo="https://1.bp.blogspot.com/-8ah6mWIcEhU/XnBUylKD6TI/AAAAAAABibg/c_cWaOEj1nkstjRnWyFb01-azexvi2M5ACLcBGAsYHQ/s1600/bloombergtvlogo.png" group-title="Internacionais", Bloomberg
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/22475.m3u8
+#EXTINF:0 type="stream" tvg-chno="202.1" logo="https://1.bp.blogspot.com/-RIxTBksPp0U/XnBUxj4kBAI/AAAAAAABibY/HGFbXpIdqWMVVJ7OdlvKNQSJf4MQwyC9gCLcBGAsYHQ/s1600/bbcworldnewslogo.png" group-title="Internacionais", BBC World News
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="203.1" logo="https://1.bp.blogspot.com/-7_RpmINkELM/XnBVgYRp-bI/AAAAAAABijQ/qwbFf2QC2WkGZ8WrIybZbMy0O4Fc5KjiwCLcBGAsYHQ/s1600/raiitalialogo.png" group-title="Internacionais", Rai Italia
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/22451.m3u8
+#EXTINF:0 type="stream" tvg-chno="204.1" logo="https://1.bp.blogspot.com/-9ZLaUOYP1GQ/XnBVx3UohII/AAAAAAABimI/cnCahDl6g7U8HBOgU3uUiia6rgXDw_kEwCLcBGAsYHQ/s1600/tv5mondelogo.png" group-title-"Internacionais", TV5Monde Bresil
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="205.1" logo="https://1.bp.blogspot.com/-LNiiDyhLukk/XnBV0t-p7yI/AAAAAAABimY/vQ1bJ72Z9xAzbeDbI1gXIgfz_yRn8kovACLcBGAsYHQ/s1600/tvelogo.png" group-title="Internacionais", TVE Internacional
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/22378.m3u8
+#EXTINF:0 type="stream" tvg-chno="206.1" logo="https://1.bp.blogspot.com/-0x4cTB9UTwo/XnBVBSoxvVI/AAAAAAABidw/OmIz8gB4cNQ-yxX6C0ADYyCl2k2iBEE_ACLcBGAsYHQ/s1600/dwlogo.png" group-title="Internacionais", Deustche Welle
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="207.1" logo="https://1.bp.blogspot.com/-ggb6G6N8VFE/XnBVcY4PrJI/AAAAAAABiic/RVcC2_aZ3yYnXx20kk7UceOkn4sUZBioQCLcBGAsYHQ/s1600/nhkworldlogo.png" group-title="Internacionais" tvg-country="BR", NHK World Japan
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13680.m3u8
+#EXTINF:0 type="stream" tvg-chno="208.1" logo="https://1.bp.blogspot.com/-qLH6OKwP8YQ/XnBVpBL2qaI/AAAAAAABikc/42vkiONE3-kUA23vy_rf2Yh4Enuj6rskgCLcBGAsYHQ/s1600/siclogo.png" tvg-country="BR" group-title="Filmes e Séries", SIC
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/22534.m3u8
+#EXTINF:0 type="stream" tvg-chno="205.2" logo="https://1.bp.blogspot.com/-EdXMTx2hqq4/XnBnOpBCNRI/AAAAAAABios/pcoAdwZrSAoUxFMK7ZqKIIdJsAtY2d9FQCLcBGAsYHQ/s1600/antena3internacionallogo.png" tvg-country="ES" group-title="Internacionais", Antena 3 HD
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13680.m3u8
+#EXTINF:0 type="stream" tvg-chno="230.1" logo="https://1.bp.blogspot.com/-R1yvPW8ihAQ/XnBU8FhLf0I/AAAAAAABic8/Hxta3pnubSICm-xk30KgVXynVLK0hHLygCLcBGAsYHQ/s1600/daznlogo.png" tvg-country="BR" group-title="Esportes", DAZN 1  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13439.m3u8
+#EXTINF:0 type="stream" tvg-chno="230.2" logo="https://1.bp.blogspot.com/-R1yvPW8ihAQ/XnBU8FhLf0I/AAAAAAABic8/Hxta3pnubSICm-xk30KgVXynVLK0hHLygCLcBGAsYHQ/s1600/daznlogo.png" tvg-country="BR" group-title="Esportes", DAZN 2  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13440.m3u8
+#EXTINF:0 type="stream" tvg-chno="230.3" logo="https://1.bp.blogspot.com/-R1yvPW8ihAQ/XnBU8FhLf0I/AAAAAAABic8/Hxta3pnubSICm-xk30KgVXynVLK0hHLygCLcBGAsYHQ/s1600/daznlogo.png" tvg-country="BR" group-title="Esportes", DAZN 3  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13441.m3u8
+#EXTINF:0 type="stream" tvg-chno="230.4" logo="https://1.bp.blogspot.com/-R1yvPW8ihAQ/XnBU8FhLf0I/AAAAAAABic8/Hxta3pnubSICm-xk30KgVXynVLK0hHLygCLcBGAsYHQ/s1600/daznlogo.png" tvg-country="BR" group-title="Esportes", DAZN 4  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13442.m3u8
+#EXTINF:0 type="stream" tvg-chno="229.1" logo="https://1.bp.blogspot.com/-VRr8VEJztWA/XnBVCOwBZAI/AAAAAAABid8/PtYvdXZKJ94OBJ6trde12_Y85CTkdakawCLcBGAsYHQ/s1600/eipluslogo.png" tvg-country="BR" group-title="Esportes", Esporte Interativo BR  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/4395.m3u8
+#EXTINF:0 type="stream" tvg-chno="229.2" logo="https://1.bp.blogspot.com/-VRr8VEJztWA/XnBVCOwBZAI/AAAAAAABid8/PtYvdXZKJ94OBJ6trde12_Y85CTkdakawCLcBGAsYHQ/s1600/eipluslogo.png" tvg-country="BR" group-title="Esportes", EI Plus 2  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/4396.m3u8
+#EXTINF:0 type="stream" tvg-chno="229.3" logo="https://1.bp.blogspot.com/-VRr8VEJztWA/XnBVCOwBZAI/AAAAAAABid8/PtYvdXZKJ94OBJ6trde12_Y85CTkdakawCLcBGAsYHQ/s1600/eipluslogo.png" tvg-country="br" group-title="Esportes", EI Plus 3  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/4426.m3u8
+#EXTINF:0 type="stream" tvg-chno="229.4" logo="https://1.bp.blogspot.com/-VRr8VEJztWA/XnBVCOwBZAI/AAAAAAABid8/PtYvdXZKJ94OBJ6trde12_Y85CTkdakawCLcBGAsYHQ/s1600/eipluslogo.png" tvg-country="br" group-title="Esportes", EI Plus 4  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/4440.m3u8
+#EXTINF:0 type="stream" tvg-chno="229.5" logo="https://1.bp.blogspot.com/-VRr8VEJztWA/XnBVCOwBZAI/AAAAAAABid8/PtYvdXZKJ94OBJ6trde12_Y85CTkdakawCLcBGAsYHQ/s1600/eipluslogo.png" tvg-country="br" group-title="Esportes", EI Plus 5  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/4454.m3u8
+#EXTINF:0 type="stream" tvg-chno="229.6" logo="https://1.bp.blogspot.com/-VRr8VEJztWA/XnBVCOwBZAI/AAAAAAABid8/PtYvdXZKJ94OBJ6trde12_Y85CTkdakawCLcBGAsYHQ/s1600/eipluslogo.png" tvg-country="br" group-title="Esportes", EI Plus 6  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/4455.m3u8
+#EXTINF:0 type="stream" tvg-chno="-1", Item 229
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="-1", Item 230
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="221" logo="https://1.bp.blogspot.com/-FAicEcZhqdc/XnBVcQuLjbI/AAAAAAABiiY/HQ2MISYQI-https://1.bp.blogspot.com/-DaGR8Ci4mro/XnBVfw_ChWI/AAAAAAABijI/WzaSDXV5T70dupML44vdB8qfrdy1YwkowCLcBGAsYHQ/s1600/premierelogo.png" tvg-country="br"  group-title="Esportes", Premiere Clubes  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/914.m3u8
+#EXTINF:0 type="stream" tvg-chno="222" logo="https://1.bp.blogspot.com/-FAicEcZhqdc/XnBVcQuLjbI/AAAAAAABiiY/HQ2MISYQI-https://1.bp.blogspot.com/-DaGR8Ci4mro/XnBVfw_ChWI/AAAAAAABijI/WzaSDXV5T70dupML44vdB8qfrdy1YwkowCLcBGAsYHQ/s1600/premierelogo.png" tvg-country="br" group-title="Esportes", Premiere 2  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/839.m3u8
+#EXTINF:0 type="stream" tvg-chno="223" logo="https://1.bp.blogspot.com/-FAicEcZhqdc/XnBVcQuLjbI/AAAAAAABiiY/HQ2MISYQI-https://1.bp.blogspot.com/-DaGR8Ci4mro/XnBVfw_ChWI/AAAAAAABijI/WzaSDXV5T70dupML44vdB8qfrdy1YwkowCLcBGAsYHQ/s1600/premierelogo.png" tvg-country="br" group-title="Esportes", Premiere 3  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/840.m3u8
+#EXTINF:0 type="stream" tvg-chno="224" logo="https://1.bp.blogspot.com/-FAicEcZhqdc/XnBVcQuLjbI/AAAAAAABiiY/HQ2MISYQI-https://1.bp.blogspot.com/-DaGR8Ci4mro/XnBVfw_ChWI/AAAAAAABijI/WzaSDXV5T70dupML44vdB8qfrdy1YwkowCLcBGAsYHQ/s1600/premierelogo.png" tvg-country="br" group-title="Esportes", Premiere 4  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/861.m3u8
+#EXTINF:0 type="stream" tvg-chno="225" logo="https://1.bp.blogspot.com/-FAicEcZhqdc/XnBVcQuLjbI/AAAAAAABiiY/HQ2MISYQI-https://1.bp.blogspot.com/-DaGR8Ci4mro/XnBVfw_ChWI/AAAAAAABijI/WzaSDXV5T70dupML44vdB8qfrdy1YwkowCLcBGAsYHQ/s1600/premierelogo.png" tvg-country="br" group-title="Esportes", Premiere 5  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/862.m3u8
+#EXTINF:0 type="stream" tvg-chno="226" logo="https://1.bp.blogspot.com/-FAicEcZhqdc/XnBVcQuLjbI/AAAAAAABiiY/HQ2MISYQI-https://1.bp.blogspot.com/-DaGR8Ci4mro/XnBVfw_ChWI/AAAAAAABijI/WzaSDXV5T70dupML44vdB8qfrdy1YwkowCLcBGAsYHQ/s1600/premierelogo.png" tvg-country="br" group-title="Esportes", Premiere 6  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/864.m3u8
+#EXTINF:0 type="stream" tvg-chno="227.1" logo="https://1.bp.blogspot.com/-FAicEcZhqdc/XnBVcQuLjbI/AAAAAAABiiY/HQ2MISYQI-https://1.bp.blogspot.com/-DaGR8Ci4mro/XnBVfw_ChWI/AAAAAAABijI/WzaSDXV5T70dupML44vdB8qfrdy1YwkowCLcBGAsYHQ/s1600/premierelogo.png" tvg-country="br" group-title="Esportes", Premiere 7  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/886.m3u8
+#EXTINF:0 type="stream" tvg-chno="227.2" logo="https://1.bp.blogspot.com/-FAicEcZhqdc/XnBVcQuLjbI/AAAAAAABiiY/HQ2MISYQI-https://1.bp.blogspot.com/-DaGR8Ci4mro/XnBVfw_ChWI/AAAAAAABijI/WzaSDXV5T70dupML44vdB8qfrdy1YwkowCLcBGAsYHQ/s1600/premierelogo.png" tvg-country="br" group-title="Esportes", Premiere 8 
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13453.m3u8
+#EXTINF:0 type="stream" tvg-chno="227.3" logo="https://1.bp.blogspot.com/-FAicEcZhqdc/XnBVcQuLjbI/AAAAAAABiiY/HQ2MISYQI-https://1.bp.blogspot.com/-DaGR8Ci4mro/XnBVfw_ChWI/AAAAAAABijI/WzaSDXV5T70dupML44vdB8qfrdy1YwkowCLcBGAsYHQ/s1600/premierelogo.png" tvg-country="br" group-title="Esportes", Premiere 9 
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13454.m3u8
+#EXTINF:0 type="stream" tvg-chno="-1", Item 231
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="220" logo="https://1.bp.blogspot.com/-FAicEcZhqdc/XnBVcQuLjbI/AAAAAAABiiY/HQ2MISYQI-https://1.bp.blogspot.com/-DaGR8Ci4mro/XnBVfw_ChWI/AAAAAAABijI/WzaSDXV5T70dupML44vdB8qfrdy1YwkowCLcBGAsYHQ/s1600/premierelogo.png" group-title="Esportes", Premiere Interativo
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/29447.m3u8
+#EXTINF:0 type="stream" tvg-chno="210.1" logo="https://1.bp.blogspot.com/-06lCW7T8Plg/XnBVuwMJ6wI/AAAAAAABilg/PAsiuPkBGO44y72ME4n9N4_By3NILVmUQCLcBGAsYHQ/s1600/televisionpublicaargentinalogo.png" group-title="Internacionais", Televisión Pública Argentina
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="201.2" logo="https://1.bp.blogspot.com/-qDgtZyYPlIc/XnBU4Q3hZSI/AAAAAAABicc/nnIouiXjx9Qj_DkVYYM4YjW3zsnUULeLQCLcBGAsYHQ/s1600/cbslogo.png" group-title="Internacionais", CBS
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="204.4" logo="https://1.bp.blogspot.com/-OGizprLRoNk/XnBnQw9l1JI/AAAAAAABipE/LUsXEsMv200mPw4lOgZ3swvd8Lw2wM_aACLcBGAsYHQ/s1600/tf1logo.png" group-title="Internacionais", TF1 France
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="210.2" logo="https://1.bp.blogspot.com/-aH3L0NsjW7w/XnBVuuFIspI/AAAAAAABilc/mxhOQcFoy8clT45NaYG4ybIK8-oZgBH6QCLcBGAsYHQ/s1600/telefeinternacionallogo.png" group-title="Internacionais", Telefe
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="204.3" logo="https://1.bp.blogspot.com/-Z6e76st9bTA/XnBnOpS9IoI/AAAAAAABiow/H9BjwdTTXLYaPv17tzCPMXjgsRZd616rgCLcBGAsYHQ/s1600/canal%252Blogo.png" group-title="Internacionais", Canal+
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="204.4" logo="https://1.bp.blogspot.com/-WUdsBCNzTwU/XnBnPoFiqHI/AAAAAAABio4/6p2DgNVC5zIT8DKRLnIPyiQhHTR8fZ11wCLcBGAsYHQ/s1600/lachainel%2527equipelogo.png" group-title="Internacionais", L'equipe
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="201.3" logo="" group-title="Internacionais", NBC
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="201.4" logo="https://1.bp.blogspot.com/-QUvPyoHmJEQ/XnBUrS--75I/AAAAAAABiak/lc0abDn3Bto6QnGTQ38ehhVJLjZBgDAcgCLcBGAsYHQ/s1600/abclogo.png" group-title="Internacionais", ABC
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="205.4" logo="https://1.bp.blogspot.com/-a4HSw8acbkU/XnBnOQhv-HI/AAAAAAABioo/Kac_TnbWuG8Zeo2G3iPNbp1KJZoUrWUXACLcBGAsYHQ/s1600/cuatrologo.png" group-title="Internacionais", Cuatro HD
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="240" logo="https://1.bp.blogspot.com/-gfHJCJtDJQM/XnBU1HvFdLI/AAAAAAABib4/q6bKKGfe59A38voEsTHDwMksWxJQxqnIACLcBGAsYHQ/s1600/canalcombatelogo.png" tvg-country="BR" group-title="Esportes", Combate  
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/967.m3u8
+#EXTINF:0 type="stream" tvg-chno="135.2" logo="https://1.bp.blogspot.com/-iI8l0jQ97xQ/XnBUuPzFFDI/AAAAAAABia4/6xdJBmRTZBMZH2JAqHefPxG0vPylBugTACLcBGAsYHQ/s1600/axnblacklogo.png" tvg-country="BR" group-title="Filmes e Séries", AXN Black
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="135.3" logo="https://1.bp.blogspot.com/-HPHNeTp7ZzA/XnBUvnXnvZI/AAAAAAABibE/Mo2WzttAWvATL9wsAJYfPHWuoVXoxpovQCLcBGAsYHQ/s1600/axnwhitelogo.png" tvg-country="BR" group-title="Filmes e Séries", AXN White
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="204.2" logo="https://1.bp.blogspot.com/-X1eqwzkB08Q/XnBnPpdNmdI/AAAAAAABio0/121jkrUQckYVb4um2Zvvl9tXOFIhrg9mACLcBGAsYHQ/s1600/france2logo.png" group-title="Internacionais", France 2
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="204.5" logo="https://1.bp.blogspot.com/-rYwODuvDLWI/XnBVK6iHi7I/AAAAAAABifU/w_PF3VvOfzE3WYszThR65eN38iPv0pMeACLcBGAsYHQ/s1600/france24logo.png" group-title="Internacionais", France 24
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="204.6" logo="https://1.bp.blogspot.com/-lzqEqAGi9OA/XnBnQYgKvfI/AAAAAAABio8/-v8wDwrRjGAkaWGoXWYv3AsEVhnwgfMOgCLcBGAsYHQ/s1600/m6logo.png" group-title="Internacionais", M6
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="205.5" logo="https://1.bp.blogspot.com/-uuTFsUPBtGM/XnBnQpsj4AI/AAAAAAABipA/9lIVX56j66ICGYS5FNaQzcCGXAzZLKQAwCLcBGAsYHQ/s1600/telecincologo.png" group-title="Internacionais", Telecinco
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="210.3" logo="" group-title="Internacionais", El Trece
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="209" logo="https://1.bp.blogspot.com/-Yv-Vh6cBCBU/XnBVE1vxMVI/AAAAAAABieY/rLUrpezvJQwiE__MAd4bEJUyK1mlpeUIACLcBGAsYHQ/s1600/euronewslogo.png" group-title="Internacionais", Euronews
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="249" logo="https://1.bp.blogspot.com/-AQ6MlznYqHA/XnBUrSy-xzI/AAAAAAABiag/ittFuJ7oQM4KYyJQXN2XP4qDd0Uy7b3ugCLcBGAsYHQ/s1600/Bbb18ppv.png" group-title="Pay-per-view", Mosaico BBB
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/3997.m3u8
+#EXTINF:0 type="stream" tvg-chno="250.1" logo="https://1.bp.blogspot.com/-FAicEcZhqdc/XnBVcQuLjbI/AAAAAAABiiY/HQ2MISYQI-YVYfilRrde7SnfUzwFogYPwCLcBGAsYHQ/s1600/netlogo.png" group-title="Pay-per-view", PPV 1
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/3959.m3u8
+#EXTINF:0 type="stream" tvg-chno="250.2" logo="https://1.bp.blogspot.com/-FAicEcZhqdc/XnBVcQuLjbI/AAAAAAABiiY/HQ2MISYQI-YVYfilRrde7SnfUzwFogYPwCLcBGAsYHQ/s1600/netlogo.png" group-title="Pay-per-view", PPV 2
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/3972.m3u8
+#EXTINF:0 type="stream" tvg-chno="250.3" logo="https://1.bp.blogspot.com/-FAicEcZhqdc/XnBVcQuLjbI/AAAAAAABiiY/HQ2MISYQI-YVYfilRrde7SnfUzwFogYPwCLcBGAsYHQ/s1600/netlogo.png" group-title="Pay-per-view", PPV 3
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13383.m3u8
+#EXTINF:0 type="stream" tvg-chno="250.4" logo="https://1.bp.blogspot.com/-FAicEcZhqdc/XnBVcQuLjbI/AAAAAAABiiY/HQ2MISYQI-YVYfilRrde7SnfUzwFogYPwCLcBGAsYHQ/s1600/netlogo.png" group-title="Pay-per-view", PPV 4
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13385.m3u8
+#EXTINF:0 type="stream" tvg-chno="250.5" logo="https://1.bp.blogspot.com/-FAicEcZhqdc/XnBVcQuLjbI/AAAAAAABiiY/HQ2MISYQI-YVYfilRrde7SnfUzwFogYPwCLcBGAsYHQ/s1600/netlogo.png" group-title="Pay-per-view", PPV 5
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13387.m3u8
+#EXTINF:0 type="stream" tvg-chno="250.6" logo="https://1.bp.blogspot.com/-FAicEcZhqdc/XnBVcQuLjbI/AAAAAAABiiY/HQ2MISYQI-YVYfilRrde7SnfUzwFogYPwCLcBGAsYHQ/s1600/netlogo.png" group-title="Pay-per-view", PPV 6
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13388.m3u8
+#EXTINF:0 type="stream" tvg-chno="250.7" logo="https://1.bp.blogspot.com/-FAicEcZhqdc/XnBVcQuLjbI/AAAAAAABiiY/HQ2MISYQI-YVYfilRrde7SnfUzwFogYPwCLcBGAsYHQ/s1600/netlogo.png" group-title="Pay-per-view", PPV 7
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13389.m3u8
+#EXTINF:0 type="stream" tvg-chno="250.8" logo="https://1.bp.blogspot.com/-FAicEcZhqdc/XnBVcQuLjbI/AAAAAAABiiY/HQ2MISYQI-YVYfilRrde7SnfUzwFogYPwCLcBGAsYHQ/s1600/netlogo.png" group-title="Pay-per-view", PPV 8
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13390.m3u8
+#EXTINF:0 type="stream" tvg-chno="250.9" logo="https://1.bp.blogspot.com/-FAicEcZhqdc/XnBVcQuLjbI/AAAAAAABiiY/HQ2MISYQI-YVYfilRrde7SnfUzwFogYPwCLcBGAsYHQ/s1600/netlogo.png" group-title="Pay-per-view", PPV 9
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13391.m3u8
+#EXTINF:0 type="stream" tvg-chno="250.10" logo="https://1.bp.blogspot.com/-FAicEcZhqdc/XnBVcQuLjbI/AAAAAAABiiY/HQ2MISYQI-YVYfilRrde7SnfUzwFogYPwCLcBGAsYHQ/s1600/netlogo.png" group-title="Pay-per-view", PPV 10
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13393.m3u8
+#EXTINF:0 type="stream" tvg-chno="250.11" logo="https://1.bp.blogspot.com/-FAicEcZhqdc/XnBVcQuLjbI/AAAAAAABiiY/HQ2MISYQI-YVYfilRrde7SnfUzwFogYPwCLcBGAsYHQ/s1600/netlogo.png" group-title="Pay-per-view", PPV 11
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13394.m3u8
+#EXTINF:0 type="stream" tvg-chno="250.12" logo="https://1.bp.blogspot.com/-FAicEcZhqdc/XnBVcQuLjbI/AAAAAAABiiY/HQ2MISYQI-YVYfilRrde7SnfUzwFogYPwCLcBGAsYHQ/s1600/netlogo.png" group-title="Pay-per-view", PPV 12
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13395.m3u8
+#EXTINF:0 type="stream" tvg-chno="250.13" logo="https://1.bp.blogspot.com/-FAicEcZhqdc/XnBVcQuLjbI/AAAAAAABiiY/HQ2MISYQI-YVYfilRrde7SnfUzwFogYPwCLcBGAsYHQ/s1600/netlogo.png" group-title="Pay-per-view", PPV 13
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13686.m3u8
+#EXTINF:0 type="stream" tvg-chno="250.14" logo="https://1.bp.blogspot.com/-FAicEcZhqdc/XnBVcQuLjbI/AAAAAAABiiY/HQ2MISYQI-YVYfilRrde7SnfUzwFogYPwCLcBGAsYHQ/s1600/netlogo.png" group-title="Pay-per-view", PPV 14
+http://udq.me:8880/live/25TQ1fWGbf/6616903676/13690.m3u8
+#EXTINF:0 type="stream" tvg-chno="199.1" logo="https://1.bp.blogspot.com/-RKdmE0yuXgA/XnBVI2lhBUI/AAAAAAABifA/djlNf68L47cHPzbc_Ny6IAZdFlIo0nzwQCLcBGAsYHQ/s1600/foxnewslogo.png" group-title="Internacionais", Fox News Channel
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="134.2" logo="https://1.bp.blogspot.com/-GIgwIlPOtMo/XnBVL4Si7tI/AAAAAAABifg/iXqE0J9ie60WBHT3Lv0mK-eGW7Nkd6WjgCLcBGAsYHQ/s1600/fxxlogo.png" group-title="Internacionais", FXX
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="242.2" logo="https://1.bp.blogspot.com/-pG378yfEG_c/XnBVXh0oDYI/AAAAAAABihg/E1OgyBQfpfoOhPAB9i3cP61xxIUE9tFngCLcBGAsYHQ/s1600/mlbnetworklogo.png" group-title="Internacionais", MLB Network
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="198" logo="https://1.bp.blogspot.com/-eZGG1DFWfU0/XnBVYISH71I/AAAAAAABihk/Zk1o5Tq3kjwoBmxx9fFsY3nKAVK6WrvjACLcBGAsYHQ/s1600/msnbclogo.png" group-title="Internacionais", MSNBC
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="208.2" logo="https://1.bp.blogspot.com/-K2-ieVZWGOI/XnBVk3fE5SI/AAAAAAABij0/-I-bv2vrvIoWD2e4RwRBqCQAAMuvtighwCLcBGAsYHQ/s1600/rtplogo.png" group-title="Internacionais", RTP
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="208.3" logo="https://1.bp.blogspot.com/-a8_-6FwQV3E/XnBVfhTcczI/AAAAAAABijE/WESmG1JVaAYacPFZbKphTLGDI2jvztKcgCLcBGAsYHQ/s1600/portocanallogo.png" group-title="Internacionais", Porto Canal
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="208.4" logo="https://1.bp.blogspot.com/-6wT9SVPRO28/XnBUxwhfIaI/AAAAAAABibc/WkWTjgTSQS8Av_ATEea48FRmHkUvu2MmwCLcBGAsYHQ/s1600/benficatvlogo.png" group-title="Internacionais", Benfica TV
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="167" logo="https://1.bp.blogspot.com/-pY71TIDZAKI/XnBVqVkmCII/AAAAAAABikw/cQ4GFfiYFpkaRFoKnbEnUlVxG_hoWDdHQCLcBGAsYHQ/s1600/starzlogo.png" group-title="Internacionais", Starz
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="242.3" logo="https://1.bp.blogspot.com/-AETwyPBo8-Y/XnBV29Opn5I/AAAAAAABim0/8bcz9d5QFc0V_OIgWu6pyRBN5JHiDhgjwCLcBGAsYHQ/s1600/ufctvlogo.png" group-title="Internacionais", UFC TV
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="251" logo="https://1.bp.blogspot.com/-io4JhKDVQGI/XnBU5LTXeuI/AAAAAAABick/OXBz9FpJ82AV2bogzavxhJ_dYIVs8Ev9gCLcBGAsYHQ/s1600/climatempologo.png", Climatempo
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="197" logo="https://1.bp.blogspot.com/-LykCJmFNDaA/XnBU62a9y6I/AAAAAAABicw/89oedMgT7ws3T82XwcgZYD5580Np2VNAwCLcBGAsYHQ/s1600/cnnenespanollogo.png", CNN en Español
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="199.2" logo="https://1.bp.blogspot.com/-fSa323foQ_I/XnBVGl-g69I/AAAAAAABieo/11o2HKQFSrsLHrWVIp5eiKhTtaxk3nxiwCLcBGAsYHQ/s1600/foxbusinesslogo.png", Fox Business
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="242.4" logo="https://1.bp.blogspot.com/-7MqoDzTgxGs/XnBV57hYtWI/AAAAAAABinY/5GT-h9r-diAOO1bZ0rkdT8Xgh8bddwd4QCLcBGAsYHQ/s1600/wwenetworklogo.png", WWE Network
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="-1", Item 277
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="-1", Item 278
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="-1", Item 280
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="-1", Item 279
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="281" logo="https://1.bp.blogspot.com/-ANOTVTuO2V0/XnBVedSTsjI/AAAAAAABii0/SG4-XZik3_IX3XHICsjgIarZLUmP1zqUQCLcBGAsYHQ/s1600/playboytvlogo.png" , PlayboyTV
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1954.m3u8
+#EXTINF:0 type="stream" tvg-chno="282" logo="https://1.bp.blogspot.com/-GX6c6_KRTao/XnBVmtdw1fI/AAAAAAABikE/SphbAqLstAAbNOQvxY0KmvFhxFPEbJF4gCLcBGAsYHQ/s1600/sextremelogo.png" tvg-country="br", Sextreme  
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/25368.m3u8
+#EXTINF:0 type="stream" tvg-chno="290" logo="https://1.bp.blogspot.com/-tna930lPR9U/XnBVTxc9XtI/AAAAAAABig4/2wbpjSNcLSQ3L_RVXlgGftxRq0ZnrFCywCLcBGAsYHQ/s1600/hustlertvlogo.png", HustlerTV
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="284" logo="https://1.bp.blogspot.com/-OLr4IZavu2c/XnBV4f8-1CI/AAAAAAABinE/qXTTI3x6HBszK6blTPwerQaDYiORb_M5ACLcBGAsYHQ/s1600/venuslogo.png" tvg-country="BR", Venus  
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/25365.m3u8
+#EXTINF:0 type="stream" tvg-chno="285" logo="https://1.bp.blogspot.com/-yMd6VWCgq9o/XnBVmtIPN6I/AAAAAAABikI/nZy6ANWTsEEyVljHSpN989mdip9QmAfaACLcBGAsYHQ/s1600/sexyhotlogo.png" tvg-country="br", SexyHot  
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/25369.m3u8
+#EXTINF:0 type="stream" tvg-chno="286" logo="https://1.bp.blogspot.com/-D-3CRWS7fvk/XnBVmCfHeuI/AAAAAAABikA/RTqD4vx6pDgtUp99MTZllzNLjIe2q8e2ACLcBGAsYHQ/s1600/sexprivelogo.png" tvg-country="br", SexPrive  
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/30592.m3u8
+#EXTINF:0 type="stream" tvg-chno="287" logo="https://1.bp.blogspot.com/-KeNRiGPfrrM/XnBVw2tDVcI/AAAAAAABil0/cd8KYAAaLwkkJlgejXK77e3tTcMM--vfwCLcBGAsYHQ/s1600/transtvlogo.png" tvg-country="BR", TransTV 
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/30593.m3u8
+#EXTINF:0 type="stream" tvg-chno="290" logo="https://1.bp.blogspot.com/-y4gsCHYzdNw/XnBVeJW2OpI/AAAAAAABiiw/wHgYceh4pkkN8fwKIRJNIKpIsGiQZrY6wCLcBGAsYHQ/s1600/penthousetvlogo.png", Penthouse TV
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="-1", Item 289
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
+#EXTINF:0 type="stream" tvg-chno="-1", Item 290
+http://csrv.tv:80/live/25TQ1fWGbf/6616903676/1652.m3u8
